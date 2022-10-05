@@ -44,7 +44,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Khazhinov\\LaravelLighty\\": "src/"
+      "Khazhinov\\LaravelLightyMongoDBBundle\\": "src/"
     },
     "files": [
       "src/helpers.php"
